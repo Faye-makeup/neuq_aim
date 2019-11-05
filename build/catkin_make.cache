@@ -1,0 +1,2 @@
+aim
+-DCATKIN_DEVEL_PREFIX=/home/dzw/neuq_aim/devel -DCMAKE_INSTALL_PREFIX=/home/dzw/neuq_aim/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/home/dzw/neuq_aim/install
+
+Name: aim
+Description: Description of aim
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/dzw/neuq_aim/install/lib 
+Requires: 
